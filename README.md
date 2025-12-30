@@ -20,10 +20,6 @@ I am a **3rd-year BTech IT student** and an aspiring **DevOps Engineer**. I'm pa
 - **OS/Scripting:** Linux (Ubuntu/CentOS) / Bash / Python
 - **Monitoring:** Prometheus / Grafana / ELK Stack
 
-- # 💫 About Me:
-# Hi there, I'm Megh Gohil! 👋<br><br>I am a **3rd-year BTech IT student** and an aspiring **DevOps Engineer**. I'm passionate about automating workflows, managing infrastructure as code, and bridging the gap between development and operations to build scalable systems.<br><br>### 🔭 Currently working on<br>- Automating cloud deployments using **Terraform** and **Ansible**.<br>- Enhancing my personal **CI/CD pipeline** templates for microservices.<br>- Contributing to open-source DevOps tooling.<br><br>### 🌱 Currently learning<br>- **Kubernetes** orchestration and Helm charts.<br>- Advanced monitoring and logging with **Prometheus & Grafana**.<br>- Deepening my knowledge of **AWS/Azure** cloud services.<br><br>### 🛠️ Tech Stack & Tools<br>- **Cloud:** AWS / Google Cloud <br>- **CI/CD:** GitHub Actions / Jenkins / GitLab CI<br>- **Containers:** Docker / Kubernetes<br>- **IaC:** Terraform / CloudFormation<br>- **OS/Scripting:** Linux (Ubuntu/CentOS) / Bash / Python<br>- **Monitoring:** Prometheus / Grafana / ELK Stack<br>
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/megh_g1303) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/megh-gohil-9abb78276) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gohilmegh1303@gmail.com) 
 
